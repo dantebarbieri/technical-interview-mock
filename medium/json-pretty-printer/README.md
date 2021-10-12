@@ -4,35 +4,35 @@ Write a function that takes in a string of valid JSON with no extra whitespace c
 ## Example
 Input
 ```json
-{name:"Dante",age:22,weight:11.46,friends:["Furkan","Mari","Alex","Carlos","Ajay"],courses:[{title:"Computer Graphics",department:"CSCE",number:441,section:500},{title:"Honors, Structrual Methods of Combinatorics",department:"MATH",number:431,section:200}]}
+{"name":"Dante","age":22,"weight":11.46,"friends":["Furkan","Mari","Alex","Carlos","Ajay"],"courses":[{"title":"Computer Graphics","department":"CSCE","number":441,"section":500},{"title":"Honors, Structrual Methods of Combinatorics","department":"MATH","number":431,"section":200}]}
 ```
 As a string in whatever language you choose.
 
 Output
 ```json
 {
-    name:"Dante",
-    age:22,
-    weight:11.46,
-    friends:[
+    "name":"Dante",
+    "age":22,
+    "weight":11.46,
+    "friends":[
         "Furkan",
         "Mari",
         "Alex",
         "Carlos",
         "Ajay"
     ],
-    courses:[
+    "courses":[
         {
-            title:"Computer Graphics",
-            department:"CSCE",
-            number:441,
-            section:500
+            "title":"Computer Graphics",
+            "department":"CSCE",
+            "number":441,
+            "section":500
         },
         {
-            title:"Honors, Structrual Methods of Combinatorics",
-            department:"MATH",
-            number:431,
-            section:200
+            "title":"Honors, Structrual Methods of Combinatorics",
+            "department":"MATH",
+            "number":431,
+            "section":200
         }
     ]
 }
