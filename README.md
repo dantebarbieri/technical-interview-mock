@@ -1,9 +1,11 @@
 # Mock Technical Interviews
 A few technical mock-interview questions. For helping friends with technical interviews. You can use any languages or technologies that you want, but if you rely too heavily on builtin functions, the interviewer may ask you to implement it without those functions.
 
-Please [fork this repository](https://docs.github.com/articles/fork-a-repo) and solve a question that you think is easy or interesting (you want to solve it) and then try to solve one that you think will be a big challenge either to complete at all or to complete in reasonable time. Please mark (with an `X`) the problems you solved in the README below.
+Please [fork this repository](https://docs.github.com/articles/fork-a-repo) and solve a question that you think is easy or interesting (you want to solve it) and then try to solve one that you think will be a big challenge either to complete at all or to complete in a reasonable time. Please mark (with an `X`) the problems you solved in the README below.
 
 I recommend solving the problems with a partner who can help administer the interview. Remember, solving the problem isn't the most important thing, but being able to talk it out with a partner (interviewer) is.
+
+I've added some solutions to the `.solution` directory in the problem folder. Please only look at these once you've attempted the problem.
 ## Questions
 - Easy (approximately 10 minutes)
 - Medium (approximately 20 minutes)
