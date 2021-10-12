@@ -8,4 +8,4 @@ Implement a function that takes in $n$ and returns $f_n$, the $n$th Fibonacci nu
 | 2     | 2     |
 | 3     | 3     |
 | 4     | 5     |
-| 5     | 6     |
+| 5     | 8     |
