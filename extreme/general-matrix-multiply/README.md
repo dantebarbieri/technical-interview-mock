@@ -1,0 +1,2 @@
+# General Matrix Multiply
+Write a function that takes in two different matrices represented as two-dimensional arrays. If the matrices can be multiplied, it multiplies them and returns the result, and otherwise, it raises an exception.

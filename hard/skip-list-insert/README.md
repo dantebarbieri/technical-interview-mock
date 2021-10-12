@@ -1,0 +1,2 @@
+# Skip List Insert
+Given an implementation of a skip-list, write an insert function that randomly flips coins to determine the number of levels upwards to propagate the item inserted. Assume the skip-list is a doubly-linked list in each level with up and down pointers on each node.

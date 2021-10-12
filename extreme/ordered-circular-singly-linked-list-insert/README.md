@@ -1,0 +1,2 @@
+# Ordered Circular Singly Linked List Insert
+Given an ordered circular singly linked list, implement an insert function for this structure that ensures the list maintains order. Write the declaration of the list and other functions that are needed. An ordered circular linked list is arranged such that if the cursor is placed at the first minimum element, it can traverse the list in a nondecreasing fashion until it returns to where it started (the first minimum element).
