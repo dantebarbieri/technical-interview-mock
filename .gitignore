@@ -1,0 +1,5 @@
+# All build files from C++ implementations
+*.out
+
+# VS code config files
+.vscode
