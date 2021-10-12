@@ -17,7 +17,7 @@ I recommend solving the problems with a partner who can help administer the inte
 ### Medium
 - [ ] [JSON Pretty Printer](./medium/json-pretty-printer)
 - [ ] [Numbers to English](./medium/numbers-to-english)
-- [ ] [Numeric Base Converter](./medium/numberic-base-converter)
+- [ ] [Numeric Base Converter](./medium/numeric-base-converter)
 - [ ] [Primality Checker](./medium/primality-checker)
 
 ### Hard
