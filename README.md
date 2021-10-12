@@ -10,12 +10,14 @@ I recommend solving the problems with a partner who can help administer the inte
 - Hard (approximately 30 minutes)
 - Extreme (approximately 40 minutes)
 ### Easy
+- [ ] [Brace Matching](./easy/brace-matching)
 - [ ] [Fibonacci](./easy/fibonacci)
 - [ ] [Fizz Buzz](./easy/fizz-buzz)
 - [ ] [String Rotations](./easy/string-rotations)
 
 ### Medium
 - [ ] [JSON Pretty Printer](./medium/json-pretty-printer)
+- [ ] [Minimum Lexicographic](./medium/minimum-lexicographic)
 - [ ] [Numbers to English](./medium/numbers-to-english)
 - [ ] [Numeric Base Converter](./medium/numeric-base-converter)
 - [ ] [Primality Checker](./medium/primality-checker)
