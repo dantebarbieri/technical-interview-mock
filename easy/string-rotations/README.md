@@ -4,11 +4,17 @@ The concept of string rotations is a generalization of rotations of binary strin
 ## Example
 `"Texas", LEFT, 1` $\Rightarrow$ exasT
 
+`"Florida", RIGHT, 1` $\Rightarrow$ aFlorid
+
 `"Texas", LEFT, 3` $\Rightarrow$ asTex
+
+`"Florida", RIGHT, 3` $\Rightarrow$ idaFlor
 
 `"Texas", LEFT, 5` $\Rightarrow$ Texas
 
 `"Texas", LEFT, 0` $\Rightarrow$ Texas
+
+`"Florida", RIGHT, 0` $\Rightarrow$ Florida
 
 `"Texas", LEFT, 800` $\Rightarrow$ Texas
 
