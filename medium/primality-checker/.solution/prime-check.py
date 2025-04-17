@@ -17,8 +17,12 @@ def is_prime(n: int) -> bool:
 
 if __name__ == "__main__":
     test_cases = [
-        (1, False),
+        (61, True),
         (2, True),
+        (1, False),
+        (69, False),
+        (793, False),
+        (7937, True),
         (3, True),
         (4, False),
         (5, True),
